@@ -4,8 +4,8 @@ This extension allows you to embed Popdock Widgets as Iframes in Business Centra
 ### Available Types
 There are 3 samples which can be used independent of each other.
 1. [FactBoxes](FactBox)
-2. [FastTabs](FactBox)
-3. [RoleCenters](FactBox)
+2. [FastTabs](FastTab)
+3. [RoleCenters](RoleCenter)
 
 ### Troubleshooting
 * Iframe isn't displaying? Try hitting F5 to refresh the page.
